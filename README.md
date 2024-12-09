@@ -1,4 +1,4 @@
-# CMPG-323-Overview-35027223
+# Kanban project , API , Design Pattern, Data visualizations, Databases and Azure
 # Project Repository ReadMe
 
 This repository contains the project files for Project 2, along with detailed information about the setup, functionality, and usage of the API. The API is designed to manage customer information, orders, and products.
